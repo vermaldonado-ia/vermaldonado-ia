@@ -57,7 +57,7 @@ Liderazgo en modernización de plataforma ERP con foco en:
 Implementación de pipeline CI/CD con GitHub Actions, validación de calidad y despliegue automatizado.  
 👉 https://github.com/vermaldonado-ia/cloud-delivery-pipeline-portafolio  
 
-🔹 Cloud Migration Architecture  
+🔹 Cloud Migration Architecture (En proceso de construccion)
 Diseño de arquitectura de migración desde on-premise a cloud, considerando riesgos, seguridad y roadmap de implementación.  
 👉 https://github.com/vermaldonado-ia/cloud-migration-architecture-portafolio  
 
