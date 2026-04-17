@@ -3,17 +3,21 @@ Senior Project Manager | Agile | Cloud & DevOps Delivery
 
 ---
 
-💡 Ingeniera Civil Informática con más de 10 años liderando proyectos TI en banca, minería, telecomunicaciones y consultoría.  
-Especializada en transformación digital, implementación ágil y modernización tecnológica en entornos empresariales.
+💡 Ingeniera Civil Informática con más de 10 años liderando proyectos TI 
+en banca, minería, telecomunicaciones y consultoría, 
+enfocada en transformación digital y entrega de valor.
+
+Especializada en implementación ágil y modernización tecnológica en entornos empresariales,
+impulsando mejoras en velocidad de entrega, alineación organizacional y eficiencia operativa.
 
 ---
 
 ## 🧩 Especialización
 
+- Cloud & DevOps Delivery
 - Agile Delivery (Scrum, Kanban, SAFe)
 - Gestión de Proyectos TI (PMP, ITIL)
 - Transformación Digital
-- Cloud & DevOps Delivery
 - Gestión de equipos multidisciplinarios
 - Mejora continua basada en métricas
 
@@ -21,38 +25,38 @@ Especializada en transformación digital, implementación ágil y modernización
 
 ## 🛠️ Stack & Herramientas
 
-Azure DevOps | GitHub Actions | SonarQube  
+Azure DevOps | GitHub Actions | Jenkins | SonarQube  
 AWS | Azure | CI/CD Pipelines  
-Python (intermedio)  
+Python (básico)
 
 ---
 
 ## 💼 Experiencia Destacada
 
 **AFP Provida**  
-Implementación de metodologías ágiles en múltiples áreas (marketing, finanzas, canales digitales), logrando mejorar la velocidad de entrega y alineación entre equipos.
+Implementación de metodologías ágiles en múltiples áreas (marketing, finanzas, canales digitales), logrando mejorar la velocidad de entrega, coordinación entre equipos y visibilidad del trabajo.
 
 **Plataforma ERP Comercio Exterior (Editrade)**  
 Liderazgo en modernización de plataforma ERP con foco en:
-- Reducción de versiones (de múltiples a modelos consolidados)
+- Reducción de múltiples versiones a modelos consolidados
 - Mejora de experiencia de usuario
-- Integración con servicios externos mediante APIs REST
+- Integración con servicios externos
 - Optimización del onboarding de usuarios
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-🔹 **Cloud Delivery Pipeline**  
-Implementación de pipeline CI/CD con GitHub Actions, control de calidad y despliegue automatizado.  
+🔹 Cloud Delivery Pipeline  
+Implementación de pipeline CI/CD con GitHub Actions, validación de calidad y despliegue automatizado.  
 👉 https://github.com/vermaldonado-ia/cloud-delivery-pipeline-portafolio  
 
-🔹 **Cloud Migration Architecture**  
-Diseño de arquitectura de migración desde on-premise a cloud, incluyendo riesgos, seguridad y roadmap.  
+🔹 Cloud Migration Architecture  
+Diseño de arquitectura de migración desde on-premise a cloud, considerando riesgos, seguridad y roadmap de implementación.  
 👉 https://github.com/vermaldonado-ia/cloud-migration-architecture-portafolio  
 
-🔹 **Agile Transformation Portfolio**  
-Implementación de prácticas ágiles, gestión de backlog y métricas de equipo.  
+🔹 Agile Transformation Portfolio  
+Implementación de prácticas ágiles, gestión de backlog y métricas de equipo orientadas a entrega de valor.  
 👉 https://github.com/vermaldonado-ia/Portafolio_Transformacion_Agil  
 
 ---
@@ -68,9 +72,10 @@ Implementación de prácticas ágiles, gestión de backlog y métricas de equipo
 
 ## 🔗 Contacto
 
-- LinkedIn: https://www.linkedin.com/  
+- https://www.linkedin.com/in/verónicamaldonado
 - GitHub: https://github.com/vermaldonado-ia  
 
 ---
 
-⭐ Este perfil forma parte de mi proceso de reinvención profesional hacia roles de liderazgo en Cloud y DevOps Delivery.
+⭐ Este perfil refleja mi enfoque en liderazgo de delivery,
+transformación digital y adopción de prácticas Cloud & DevOps.
