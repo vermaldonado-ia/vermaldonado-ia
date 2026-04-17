@@ -78,7 +78,7 @@ Implementación de prácticas ágiles, gestión de backlog y métricas de equipo
 
 ## 🔗 Contacto
 
-- https://www.linkedin.com/in/verónicamaldonado
+- linkedin: https://www.linkedin.com/in/verónicamaldonado
 - GitHub: https://github.com/vermaldonado-ia  
 
 ---
