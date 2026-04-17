@@ -1,6 +1,12 @@
 # 🚀 Verónica Maldonado
 Senior Project Manager | Agile | Cloud & DevOps Delivery
 
+![Agile](https://img.shields.io/badge/Agile-Scrum%20%7C%20SAFe-blue)
+![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-orange)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20%7C%20Jenkins-blueviolet)
+![DevOps](https://img.shields.io/badge/DevOps-Delivery%20Focus-success)
+![PM](https://img.shields.io/badge/Project%20Management-PMP%20%7C%20ITIL-lightgrey)
+
 ---
 
 💡 Ingeniera Civil Informática con más de 10 años liderando proyectos TI 
