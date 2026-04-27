@@ -99,3 +99,17 @@ Implementación de prácticas ágiles, gestión de backlog y métricas de equipo
 
 ⭐ Este perfil refleja mi enfoque en liderazgo de delivery,
 transformación digital y adopción de prácticas Cloud & DevOps.
+
+---
+
+## 🔗 Ecosistema de Proyectos
+
+Estos repositorios están conectados y reflejan distintas capas de un entorno real:
+
+- Cloud Migration → Estrategia y arquitectura  
+- CI/CD → Automatización y calidad  
+- Intelligent Logistics → Aplicación e innovación  
+- Agile → Gestión y entrega de valor  
+
+En conjunto, representan un enfoque integral de transformación digital.
+
