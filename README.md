@@ -21,6 +21,17 @@ impulsando mejoras en velocidad de entrega, alineación organizacional y eficien
 
 ---
 
+## 🌐 Portafolio Principal
+
+| Proyecto | Descripción | Link |
+|----------|-------------|------|
+| ☁️ Cloud Migration | Migración ERP a AWS con foco en continuidad y monitoreo | [Ver repo](https://github.com/vermaldonado-ia/cloud-migration-architecture-portafolio) |
+| ⚙️ CI/CD Pipeline | Automatización con GitHub Actions, calidad y despliegue continuo | [Ver repo](https://github.com/vermaldonado-ia/cloud-delivery-pipeline-portafolio) |
+| 🤖 Intelligent Logistics | Plataforma de control logístico con enfoque en automatización | [Ver repo](https://github.com/vermaldonado-ia/intelligent-logistics-control-platform) |
+| 🔄 Agile Transformation | Prácticas ágiles orientadas a entrega de valor | [Ver repo](https://github.com/vermaldonado-ia/Portafolio_Transformacion_Agil) |
+
+---
+
 ## 🧩 Especialización
 
 - Cloud & DevOps Delivery
