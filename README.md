@@ -1,5 +1,8 @@
 # 🚀 Verónica Maldonado
-Senior Project Manager | Agile | Cloud & DevOps Delivery
+
+**Senior Project Manager | Cloud & DevOps Delivery | Transformación Digital**
+
+Proyectos prácticos que combinan migración cloud, automatización y continuidad operacional.
 
 ![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions-blue)
 ![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-orange)
